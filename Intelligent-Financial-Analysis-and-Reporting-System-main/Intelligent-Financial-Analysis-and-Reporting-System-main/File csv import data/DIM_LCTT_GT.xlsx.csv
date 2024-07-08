@@ -1,0 +1,39 @@
+Level_1_Name,Level_1_ID,Level_2_Name,Level_2_ID,Level_3_Name,Level_3_ID
+I. Lưu chuyển từ hoạt động kinh doanh,,1. Lợi nhuận trước thuế,1,1. Lợi nhuận trước thuế,01
+I. Lưu chuyển từ hoạt động kinh doanh,,2. Điều chỉnh cho các khoản,,- Khấu hao TSCĐ và BĐSĐT,02
+I. Lưu chuyển từ hoạt động kinh doanh,,2. Điều chỉnh cho các khoản,,- Các khoản dự phòng,03
+I. Lưu chuyển từ hoạt động kinh doanh,,2. Điều chỉnh cho các khoản,,"- Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",04
+I. Lưu chuyển từ hoạt động kinh doanh,,2. Điều chỉnh cho các khoản,,"- Lãi, lỗ từ hoạt động đầu tư",05
+I. Lưu chuyển từ hoạt động kinh doanh,,2. Điều chỉnh cho các khoản,,- Chi phí lãi vay,06
+I. Lưu chuyển từ hoạt động kinh doanh,,2. Điều chỉnh cho các khoản,,- Các khoản điều chỉnh khác,07
+I. Lưu chuyển từ hoạt động kinh doanh,,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động (08=01+02+03+04+05+06+07),08,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động (08=01+02+03+04+05+06+07),08
+I. Lưu chuyển từ hoạt động kinh doanh,,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,"- Tăng, giảm các khoản phải thu",09
+I. Lưu chuyển từ hoạt động kinh doanh,,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,"- Tăng, giảm hàng tồn kho",10
+I. Lưu chuyển từ hoạt động kinh doanh,,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,"- Tăng, giảm các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",11
+I. Lưu chuyển từ hoạt động kinh doanh,,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,"- Tăng, giảm chi phí trả trước",12
+I. Lưu chuyển từ hoạt động kinh doanh,,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,"- Tăng, giảm chứng khoán kinh doanh",13
+I. Lưu chuyển từ hoạt động kinh doanh,,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,- Tiền lãi vay đã trả,14
+I. Lưu chuyển từ hoạt động kinh doanh,,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,- Thuế thu nhập doanh nghiệp đã nộp,15
+I. Lưu chuyển từ hoạt động kinh doanh,,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,- Tiền thu khác từ hoạt động kinh doanh,16
+I. Lưu chuyển từ hoạt động kinh doanh,,3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,- Tiền chi khác cho hoạt động kinh doanh,17
+I. Lưu chuyển từ hoạt động kinh doanh,,Lưu chuyển tiền thuần từ hoạt động kinh doanh,20,Lưu chuyển tiền thuần từ hoạt động kinh doanh,20
+II. Lưu chuyển tiền từ hoạt động đầu tư,,"1.Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",21,"1.Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",21
+II. Lưu chuyển tiền từ hoạt động đầu tư,,"2.Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",22,"2.Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",22
+II. Lưu chuyển tiền từ hoạt động đầu tư,,"3.Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",23,"3.Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",23
+II. Lưu chuyển tiền từ hoạt động đầu tư,,"4.Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",24,"4.Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",24
+II. Lưu chuyển tiền từ hoạt động đầu tư,,5.Tiền chi đầu tư góp vốn vào đơn vị khác,25,5.Tiền chi đầu tư góp vốn vào đơn vị khác,25
+II. Lưu chuyển tiền từ hoạt động đầu tư,,6.Tiền thu hồi đầu tư góp vốn vào đơn vị khác,26,6.Tiền thu hồi đầu tư góp vốn vào đơn vị khác,26
+II. Lưu chuyển tiền từ hoạt động đầu tư,,"7.Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",27,"7.Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",27
+II. Lưu chuyển tiền từ hoạt động đầu tư,,Lưu chuyển tiền thuần từ hoạt động đầu tư,30,Lưu chuyển tiền thuần từ hoạt động đầu tư,30
+III. Lưu chuyển tiền từ hoạt động tài chính,,"1.Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",31,"1.Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",31
+III. Lưu chuyển tiền từ hoạt động tài chính,,"2.Tiền trả lại vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",32,"2.Tiền trả lại vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",32
+III. Lưu chuyển tiền từ hoạt động tài chính,,3.Tiền thu từ đi vay,33,3.Tiền thu từ đi vay,33
+III. Lưu chuyển tiền từ hoạt động tài chính,,4.Tiền chi trả nợ gốc vay,34,4.Tiền chi trả nợ gốc vay,34
+III. Lưu chuyển tiền từ hoạt động tài chính,,5.Tiền chi trả nợ gốc thuê tài chính,35,5.Tiền chi trả nợ gốc thuê tài chính,35
+III. Lưu chuyển tiền từ hoạt động tài chính,,"6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",36,"6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",36
+III. Lưu chuyển tiền từ hoạt động tài chính,,7. Tiền thu từ vốn góp của cổ đông không kiểm soát,37,7. Tiền thu từ vốn góp của cổ đông không kiểm soát,37
+III. Lưu chuyển tiền từ hoạt động tài chính,,Lưu chuyển tiền thuần từ hoạt động tài chính,40,Lưu chuyển tiền thuần từ hoạt động tài chính,40
+Lưu chuyển tiền thuần trong kỳ (50 = 20+30+40),50,Lưu chuyển tiền thuần trong kỳ (50 = 20+30+40),50,Lưu chuyển tiền thuần trong kỳ (50 = 20+30+40),50
+Tiền và tương đương tiền đầu kỳ,60,Tiền và tương đương tiền đầu kỳ,60,Tiền và tương đương tiền đầu kỳ,60
+Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,61,Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,61
+Tiền và tương đương tiền cuối kỳ (70 = 50+60+61),70,Tiền và tương đương tiền cuối kỳ (70 = 50+60+61),70,Tiền và tương đương tiền cuối kỳ (70 = 50+60+61),70

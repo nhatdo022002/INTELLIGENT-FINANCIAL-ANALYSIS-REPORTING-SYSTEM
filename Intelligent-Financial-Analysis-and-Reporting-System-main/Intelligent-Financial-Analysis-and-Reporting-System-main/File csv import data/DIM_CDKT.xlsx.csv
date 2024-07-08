@@ -1,0 +1,118 @@
+Level_1_Name,Level_1_ID,Level_2_Name,Level_2_ID,Level_3_Name,Level_3_ID,Level_4_Name,Level_4_ID,Level_5_Name,Level_5_ID
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,A- TÀI SẢN NGẮN HẠN,100,A- TÀI SẢN NGẮN HẠN,100,A- TÀI SẢN NGẮN HẠN,100
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,I. Tiền và các khoản tương đương tiền,110,I. Tiền và các khoản tương đương tiền,110,I. Tiền và các khoản tương đương tiền,110
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,I. Tiền và các khoản tương đương tiền,110,1. Tiền,111,1. Tiền,111
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,I. Tiền và các khoản tương đương tiền,110,2. Các khoản tương đương tiền,112,2. Các khoản tương đương tiền,112
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,II. Đầu tư tài chính ngắn hạn,120,1. Chứng khoán kinh doanh,120,II. Đầu tư tài chính ngắn hạn,120
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,II. Đầu tư tài chính ngắn hạn,120,1. Chứng khoán kinh doanh,121,1. Chứng khoán kinh doanh,121
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,II. Đầu tư tài chính ngắn hạn,120,2. Dự phòng giảm giá chứng khoán kinh doanh (*),122,2. Dự phòng giảm giá chứng khoán kinh doanh (*),122
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,II. Đầu tư tài chính ngắn hạn,120,3. Đầu tư nắm giữ đến ngày đáo hạn,123,3. Đầu tư nắm giữ đến ngày đáo hạn,123
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,III. Các khoản phải thu ngắn hạn,130,III. Các khoản phải thu ngắn hạn,130,III. Các khoản phải thu ngắn hạn,130
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,III. Các khoản phải thu ngắn hạn,130,1. Phải thu ngắn hạn của khách hàng,131,1. Phải thu ngắn hạn của khách hàng,131
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,III. Các khoản phải thu ngắn hạn,130,2. Trả trước cho người bán ngắn hạn,132,2. Trả trước cho người bán ngắn hạn,132
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,III. Các khoản phải thu ngắn hạn,130,3. Phải thu nội bộ ngắn hạn,133,3. Phải thu nội bộ ngắn hạn,133
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,III. Các khoản phải thu ngắn hạn,130,4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng,134,4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng,134
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,III. Các khoản phải thu ngắn hạn,130,5. Phải thu về cho vay ngắn hạn,135,5. Phải thu về cho vay ngắn hạn,135
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,III. Các khoản phải thu ngắn hạn,130,6. Phải thu ngắn hạn khác,136,6. Phải thu ngắn hạn khác,136
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,III. Các khoản phải thu ngắn hạn,130,7. Dự phòng phải thu ngắn hạn khó đòi (*),137,7. Dự phòng phải thu ngắn hạn khó đòi (*),137
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,III. Các khoản phải thu ngắn hạn,130,8. Tài sản Thiếu chờ xử lý,139,8. Tài sản Thiếu chờ xử lý,139
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,IV. Hàng tồn kho,140,IV. Hàng tồn kho,140,IV. Hàng tồn kho,140
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,IV. Hàng tồn kho,140,1. Hàng tồn kho,141,1. Hàng tồn kho,141
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,IV. Hàng tồn kho,140,2. Dự phòng giảm giá hàng tồn kho (*),149,2. Dự phòng giảm giá hàng tồn kho (*),149
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,V.Tài sản ngắn hạn khác,150,V.Tài sản ngắn hạn khác,150,V.Tài sản ngắn hạn khác,150
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,V.Tài sản ngắn hạn khác,150,1. Chi phí trả trước ngắn hạn,151,1. Chi phí trả trước ngắn hạn,151
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,V.Tài sản ngắn hạn khác,150,2. Thuế GTGT được khấu trừ,152,2. Thuế GTGT được khấu trừ,152
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,V.Tài sản ngắn hạn khác,150,3. Thuế và các khoản khác phải thu Nhà nước,153,3. Thuế và các khoản khác phải thu Nhà nước,153
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,V.Tài sản ngắn hạn khác,150,4. Giao dịch mua bán lại trái phiếu Chính phủ,154,4. Giao dịch mua bán lại trái phiếu Chính phủ,154
+TÀI SẢN,,A- TÀI SẢN NGẮN HẠN,100,V.Tài sản ngắn hạn khác,150,5. Tài sản ngắn hạn khác,155,5. Tài sản ngắn hạn khác,155
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,B. TÀI SẢN DÀI HẠN,200,B. TÀI SẢN DÀI HẠN,200,B. TÀI SẢN DÀI HẠN,200
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,I. Các khoản phải thu dài hạn,210,I. Các khoản phải thu dài hạn,210,I. Các khoản phải thu dài hạn,210
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,I. Các khoản phải thu dài hạn,210,1. Phải thu dài hạn của khách hàng,211,1. Phải thu dài hạn của khách hàng,211
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,I. Các khoản phải thu dài hạn,210,2. Trả trước cho người bán dài hạn,212,2. Trả trước cho người bán dài hạn,212
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,I. Các khoản phải thu dài hạn,210,3. Vốn kinh doanh ở đơn vị trực thuộc,213,3. Vốn kinh doanh ở đơn vị trực thuộc,213
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,I. Các khoản phải thu dài hạn,210,4. Phải thu nội bộ dài hạn,214,4. Phải thu nội bộ dài hạn,214
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,I. Các khoản phải thu dài hạn,210,5. Phải thu về cho vay dài hạn,215,5. Phải thu về cho vay dài hạn,215
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,I. Các khoản phải thu dài hạn,210,6. Phải thu dài hạn khác,216,6. Phải thu dài hạn khác,216
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,I. Các khoản phải thu dài hạn,210,7. Dự phòng phải thu dài hạn khó đòi (*),219,7. Dự phòng phải thu dài hạn khó đòi (*),219
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,II.Tài sản cố định,220,II.Tài sản cố định,220,II.Tài sản cố định,220
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,II.Tài sản cố định,220,1. Tài sản cố định hữu hình,221,1. Tài sản cố định hữu hình,221
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,II.Tài sản cố định,220,1. Tài sản cố định hữu hình,221,- Nguyên giá,222
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,II.Tài sản cố định,220,1. Tài sản cố định hữu hình,221,- Giá trị hao mòn luỹ kế (*),223
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,II.Tài sản cố định,220,2. Tài sản cố định thuê tài chính,224,2. Tài sản cố định thuê tài chính,224
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,II.Tài sản cố định,220,2. Tài sản cố định thuê tài chính,224,- Nguyên giá,225
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,II.Tài sản cố định,220,2. Tài sản cố định thuê tài chính,224,- Giá trị hao mòn luỹ kế (*),226
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,II.Tài sản cố định,220,3. Tài sản cố định vô hình,227,3. Tài sản cố định vô hình,227
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,II.Tài sản cố định,220,3. Tài sản cố định vô hình,227,- Nguyên giá,228
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,II.Tài sản cố định,220,3. Tài sản cố định vô hình,227,- Giá trị hao mòn luỹ kế (*),229
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,III. Bất động sản đầu tư,230,III. Bất động sản đầu tư,230,III. Bất động sản đầu tư,230
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,III. Bất động sản đầu tư,230,- Nguyên giá,231,- Nguyên giá,231
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,III. Bất động sản đầu tư,230,- Giá trị hao mòn luỹ kế (*),232,- Giá trị hao mòn luỹ kế (*),232
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,IV. Tài sản dở dang dài hạn,240,IV. Tài sản dở dang dài hạn,240,IV. Tài sản dở dang dài hạn,240
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,IV. Tài sản dở dang dài hạn,240,"1. Chi phí sản xuất, kinh doanh dở dang dài hạn",241,"1. Chi phí sản xuất, kinh doanh dở dang dài hạn",241
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,IV. Tài sản dở dang dài hạn,240,2. Chi phí xây dựng cơ bản dở dang,242,2. Chi phí xây dựng cơ bản dở dang,242
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,V. Đầu tư tài chính dài hạn,250,V. Đầu tư tài chính dài hạn,250,V. Đầu tư tài chính dài hạn,250
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,V. Đầu tư tài chính dài hạn,250,1. Đầu tư vào công ty con,251,1. Đầu tư vào công ty con,251
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,V. Đầu tư tài chính dài hạn,250,"2. Đầu tư vào công ty liên doanh, liên kết",252,"2. Đầu tư vào công ty liên doanh, liên kết",252
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,V. Đầu tư tài chính dài hạn,250,3. Đầu tư góp vốn vào đơn vị khác,253,3. Đầu tư góp vốn vào đơn vị khác,253
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,V. Đầu tư tài chính dài hạn,250,4. Dự phòng đầu tư tài chính dài hạn (*),254,4. Dự phòng đầu tư tài chính dài hạn (*),254
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,V. Đầu tư tài chính dài hạn,250,5. Đầu tư nắm giữ đến ngày đáo hạn,255,5. Đầu tư nắm giữ đến ngày đáo hạn,255
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,VI. Tài sản dài hạn khác,260,VI. Tài sản dài hạn khác,260,VI. Tài sản dài hạn khác,260
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,VI. Tài sản dài hạn khác,260,1. Chi phí trả trước dài hạn,261,1. Chi phí trả trước dài hạn,261
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,VI. Tài sản dài hạn khác,260,2. Tài sản thuế thu nhập hoãn lại,262,2. Tài sản thuế thu nhập hoãn lại,262
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,VI. Tài sản dài hạn khác,260,"3. Thiết bị, vật tư, phụ tùng thay thế dài hạn",263,"3. Thiết bị, vật tư, phụ tùng thay thế dài hạn",263
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,VI. Tài sản dài hạn khác,260,4. Tài sản dài hạn khác,268,4. Tài sản dài hạn khác,268
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,VI. Tài sản dài hạn khác,260,5. Lợi thế thương mại,269,5. Lợi thế thương mại,269
+TÀI SẢN,,B. TÀI SẢN DÀI HẠN,200,TỔNG CỘNG TÀI SẢN,270,TỔNG CỘNG TÀI SẢN,270,TỔNG CỘNG TÀI SẢN,270
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,C. NỢ PHẢI TRẢ,300,C. NỢ PHẢI TRẢ,300,C. NỢ PHẢI TRẢ,300
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,310,I. Nợ ngắn hạn,310,I. Nợ ngắn hạn,310
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,310,1. Phải trả người bán ngắn hạn,311,1. Phải trả người bán ngắn hạn,311
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,310,2. Người mua trả tiền trước ngắn hạn,312,2. Người mua trả tiền trước ngắn hạn,312
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,310,3. Thuế và các khoản phải nộp Nhà nước,313,3. Thuế và các khoản phải nộp Nhà nước,313
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,310,4. Phải trả người lao động,314,4. Phải trả người lao động,314
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,310,5. Chi phí phải trả ngắn hạn,315,5. Chi phí phải trả ngắn hạn,315
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,310,6. Phải trả nội bộ ngắn hạn,316,6. Phải trả nội bộ ngắn hạn,316
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,310,7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,317,7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng,317
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,310,8. Doanh thu chưa thực hiện ngắn hạn,318,8. Doanh thu chưa thực hiện ngắn hạn,318
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,310,9. Phải trả ngắn hạn khác,319,9. Phải trả ngắn hạn khác,319
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,320,10. Vay và nợ thuê tài chính ngắn hạn,320,10. Vay và nợ thuê tài chính ngắn hạn,320
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,320,11. Dự phòng phải trả ngắn hạn,321,11. Dự phòng phải trả ngắn hạn,321
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,320,"12. Quỹ khen thưởng, phúc lợi",322,"12. Quỹ khen thưởng, phúc lợi",322
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,320,13. Quỹ bình ổn giá,323,13. Quỹ bình ổn giá,323
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,I. Nợ ngắn hạn,320,14. Giao dịch mua bán lại trái phiếu Chính phủ,324,14. Giao dịch mua bán lại trái phiếu Chính phủ,324
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,II. Nợ dài hạn,330,II. Nợ dài hạn,330
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,1. Phải trả người bán dài hạn,331,1. Phải trả người bán dài hạn,331
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,2. Người mua trả tiền trước dài hạn,332,2. Người mua trả tiền trước dài hạn,332
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,3. Chi phí phải trả dài hạn,333,3. Chi phí phải trả dài hạn,333
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,4. Phải trả nội bộ về vốn kinh doanh,334,4. Phải trả nội bộ về vốn kinh doanh,334
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,5. Phải trả nội bộ dài hạn,335,5. Phải trả nội bộ dài hạn,335
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,6. Doanh thu chưa thực hiện dài hạn,336,6. Doanh thu chưa thực hiện dài hạn,336
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,7. Phải trả dài hạn khác,337,7. Phải trả dài hạn khác,337
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,8. Vay và nợ thuê tài chính dài hạn,338,8. Vay và nợ thuê tài chính dài hạn,338
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,9. Trái phiếu chuyển đổi,339,9. Trái phiếu chuyển đổi,339
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,10. Cổ phiếu ưu đãi,340,10. Cổ phiếu ưu đãi,340
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,11. Thuế thu nhập hoãn lại phải trả,341,11. Thuế thu nhập hoãn lại phải trả,341
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,12. Dự phòng phải trả dài hạn,342,12. Dự phòng phải trả dài hạn,342
+NGUỒN VỐN,,C. NỢ PHẢI TRẢ,300,II. Nợ dài hạn,330,13. Quỹ phát triển khoa học và công nghệ,343,13. Quỹ phát triển khoa học và công nghệ,343
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,D. VỐN CHỦ SỞ HỮU,400,D. VỐN CHỦ SỞ HỮU,400,D. VỐN CHỦ SỞ HỮU,400
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,I. Vốn chủ sở hữu,410,I. Vốn chủ sở hữu,410
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,1. Vốn góp của chủ sở hữu,411,1. Vốn góp của chủ sở hữu,411
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,1. Vốn góp của chủ sở hữu,411a,- Cổ phiếu phổ thông có quyền biểu quyết,411a
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,1. Vốn góp của chủ sở hữu,411b,- Cổ phiếu ưu đãi,411b
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,2. Thặng dư vốn cổ phần,412,2. Thặng dư vốn cổ phần,412
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,3. Quyền chọn chuyển đổi trái phiếu,413,3. Quyền chọn chuyển đổi trái phiếu,413
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,4. Vốn khác của chủ sở hữu,414,4. Vốn khác của chủ sở hữu,414
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,5. Cổ phiếu quỹ (*),415,5. Cổ phiếu quỹ (*),415
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,6. Chênh lệch đánh giá lại tài sản,416,6. Chênh lệch đánh giá lại tài sản,416
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,7. Chênh lệch tỷ giá hối đoái,417,7. Chênh lệch tỷ giá hối đoái,417
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,8. Quỹ đầu tư phát triển,418,8. Quỹ đầu tư phát triển,418
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,9. Quỹ hỗ trợ sắp xếp doanh nghiệp,419,9. Quỹ hỗ trợ sắp xếp doanh nghiệp,419
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,10. Quỹ khác thuộc vốn chủ sở hữu,420,10. Quỹ khác thuộc vốn chủ sở hữu,420
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,11. Lợi nhuận sau thuế chưa phân phối,421,11. Lợi nhuận sau thuế chưa phân phối,421
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,11. Lợi nhuận sau thuế chưa phân phối,421,- LNST chưa phân phối lũy kế đến cuối kỳ trước,421a
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,11. Lợi nhuận sau thuế chưa phân phối,421,- LNST chưa phân phối kỳ này,421b
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,12. Nguồn vốn đầu tư XDCB,422,12. Nguồn vốn đầu tư XDCB,422
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,I. Vốn chủ sở hữu,410,13. Lợi ích cổ đông không kiểm soát,423,13. Lợi ích cổ đông không kiểm soát,423
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,II. Nguồn kinh phí và quỹ khác,430,II. Nguồn kinh phí và quỹ khác,430,II. Nguồn kinh phí và quỹ khác,430
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,II. Nguồn kinh phí và quỹ khác,430,1. Nguồn kinh phí,431,1. Nguồn kinh phí,431
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,II. Nguồn kinh phí và quỹ khác,430,2. Nguồn kinh phí đã hình thành TSCĐ,432,2. Nguồn kinh phí đã hình thành TSCĐ,432
+NGUỒN VỐN,,D. VỐN CHỦ SỞ HỮU,400,III. TỔNG CỘNG NGUỒN VỐN,440,TỔNG CỘNG NGUỒN VỐN,440,TỔNG CỘNG NGUỒN VỐN,440
